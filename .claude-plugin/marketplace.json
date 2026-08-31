@@ -1,0 +1,21 @@
+{
+  "name": "era-eon-io",
+  "metadata": {
+    "description": "Era plugin marketplace — MCP server for provisioning and managing synthetic design partners."
+  },
+  "owner": {
+    "name": "Eon",
+    "url": "https://eon.io"
+  },
+  "plugins": [
+    {
+      "name": "era",
+      "description": "Era MCP server — sign in, provision synthetic design partners, and manage tokens across Era's connector fleet from Claude Code.",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/eon-io/claude-code-era-plugin.git"
+      },
+      "homepage": "https://console.era.eon.io"
+    }
+  ]
+}
