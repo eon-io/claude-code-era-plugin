@@ -5,8 +5,7 @@ Connect Claude Code to [Era](https://console.era.eon.io) via this plugin. Bundle
 ## Capabilities
 
 - **Era MCP server** — sign in (or complete OAuth), list the connectors a design partner can be built across, provision one, add systems to it, watch its build, rotate or scope its tokens, check usage, and remove it — all as MCP tools.
-
-This plugin currently ships the MCP server only. Skills for guided workflows (e.g. walking a user through choosing an industry/size/systems, or connecting a design partner's endpoints into another tool) are not included yet.
+- **`era` skill** — teaches Claude Code what Era is and how to work in one: signing in, provisioning a synthetic company, reaching its systems over REST or as custom MCP servers, and investigating across them.
 
 ## Installation
 
